@@ -1,0 +1,27 @@
+body {
+    background-color: hsla(180, 100%, 50%, 0.575);
+}
+
+img{
+    height: 200px;
+    width: 200apx;
+    border-radius: 100%;
+}
+
+body {
+    text-align: center;
+}
+
+hr {
+    width: 40%;
+    border-style: dotted none none;
+    border-width: 7px;
+    border-color: gray;
+}
+li{
+    list-style-type: none;
+}
+.hobies a{
+    margin: auto 40px;
+    text-decoration: none;
+}
